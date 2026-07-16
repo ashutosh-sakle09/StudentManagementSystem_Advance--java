@@ -31,14 +31,14 @@ A Java Web Application developed using **JSP, Servlets, JDBC, MySQL, and Bootstr
 
 ---
 ### add student
-![](screenshots/addstu.jpeg)
+![](screenshots/addstu.png)
 ---
 
 ## view all student 
-![](screenshots/viewstu.jpeg)
+![](screenshots/viewstu.png)
 
 ## update and delete
-![](screenshots/updatedelete.jpeg)
+![](screenshots/updatedelete.png)
 
 ---
 ### 🛠️ Technologies Used
