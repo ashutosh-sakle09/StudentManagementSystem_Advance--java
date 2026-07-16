@@ -2,6 +2,48 @@
 
 A Java Web Application developed using **JSP, Servlets, JDBC, MySQL, and Bootstrap 5**. This project demonstrates user authentication, session management, database connectivity, and the MVC (Model-View-Controller) architecture.
 
+
+---
+## 📸 Application Screenshots
+
+### 🏠 Home Page
+
+![](screenshots/index.jpeg)
+
+---
+
+
+### 📝 Registration Page
+
+![](screenshots/register.jpeg)
+
+---
+
+### 🔐 Login Page
+
+![](screenshots/login.jpeg)
+
+---
+
+### 📊 Dashboard
+
+![](screenshots/home.jpeg)
+
+---
+### add student
+![](screenshots/addstu.jpeg)
+---
+
+## view all student 
+![](screenshots/viewstu.jpeg)
+
+## update and delete
+![](screenshots/updatedelete.jpeg)
+
+---
+### 🛠️ Technologies Used
+
+![](screenshots/technologys.png)
 ---
 
 ## 📌 Project Overview
